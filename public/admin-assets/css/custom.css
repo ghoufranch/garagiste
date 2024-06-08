@@ -1,0 +1,63 @@
+.w-4 {
+  width: 1rem;
+}
+.h-4 {
+  height: 1rem;
+}
+
+.w-6 {
+  width: 1.5rem;
+}
+.h-6 {
+  height: 1.5rem;
+}
+
+.dropzone {
+  background: white;
+  border-radius: 5px;
+  border: 2px dashed rgb(0, 135, 247);
+  border-image: none;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#account-panel .nav-item {
+  margin-bottom: 10px; /* Spacing between the items */
+}
+
+#account-panel .nav-link {
+  background-color: #0d3b66; /* Background color */
+  color: white; /* Text color */
+  font-weight: bold; /* Make the font bold */
+  text-align: left; /* Align text to the left */
+  padding: 15px; /* Padding for larger clickable area */
+  border-radius: 5px; /* Rounded corners */
+}
+
+#account-panel .nav-link i {
+  margin-right: 10px; /* Space between icon and text */
+}
+
+#account-panel .nav-link:hover {
+  background-color: #0b2c4a; /* Darker background on hover */
+}
+
+
+
+.btn {
+  font-weight: bold;
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: .25rem;
+}
+
+.btn-primary {
+  background-color: #0d3b66;
+  border-color: #0d3b66;
+}
+
+.btn-primary:hover {
+  background-color: #0b2c4a;
+  border-color: #0b2c4a;
+}
